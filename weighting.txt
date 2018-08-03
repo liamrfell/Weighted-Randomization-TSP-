@@ -1,0 +1,1 @@
+{"Heutistic0":0.01,"Heutistic3":0.010355682696052,"Heutistic7":0.01,"Heutistic2":0.40360655408526,"Heutistic4":0.01,"Heutistic1":1,"Heutistic6":0.01,"Heutistic5":0.01}
